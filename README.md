@@ -192,9 +192,6 @@ nexcrm/
 │   │   └── services/        # Axios API client integrations
 │   ├── index.html
 │   └── package.json
-├── Mobile-Frontend/         # React Native companion mobile app
-├── APPLICATION_WORKFLOW_GUIDE.md  # Detailed operational user manual
-├── architecture.md          # Multi-tenancy & technical specifications
 ├── CONTRIBUTING.md          # Open-source contribution guidelines
 ├── LICENSE                  # MIT Open Source License
 └── README.md
